@@ -11,3 +11,7 @@ description              : "기술 블로그"
 url                      : "jason-lee-91.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+gh_edit_repository: "https://github.com/jason-lee-91/jason-lee-91.github.io/" # the github URL for your repo
+aux_links:
+  "Just the Docs on GitHub":
+    - "//github.com/jason-lee-91/jason-lee-91.github.io"
