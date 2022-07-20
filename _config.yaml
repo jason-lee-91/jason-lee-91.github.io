@@ -1,3 +1,12 @@
-remote_theme : "mmistakes/minimal-mistakes@4.24.0"
-url                      : "https://jason-lee-91.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                   : "ko-KR"
+title                    : "기술 블로그"
+title_separator          : "-"
+subtitle                 : "기술 블로그"# site tagline that appears below site title in masthead
+name                     : "Jason"
+description              : "기술 블로그"
+url                      : "jason-lee-91.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : ""# the subpath of your site, e.g. "/blog"
