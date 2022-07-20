@@ -3,3 +3,12 @@ layout: home
 date: 2022-07-20 22:48:28 -0400
 author_profile: true
 ---
+
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
