@@ -27,6 +27,14 @@ permalink: /etc/jekyll-blog/1
       - [rbenv 및 ruby-build 설치](/etc/jekyll-blog/1#2-rbenv-및-ruby-build-설치)
       - [ruby 설치](/etc/jekyll-blog/1#3-ruby-설치)
    - [Jekyll 설치](/etc/jekyll-blog/1#jeykill-설치)
+ - [Jekyll Blog 시작 (2) - Theme 선택 후 반영 (JUST THE DOCS)](/etc/jekyll-blog/2)
+    - [Jekyll Theme 선택 [Just The Docs ]](/etc/jekyll-blog/2#jekyll-theme-선택-just-the-docs--공식-사이트)
+    - [Just The Docs 실행](/etc/jekyll-blog/2#just-the-docs-실행)
+        - [Configurations](/etc/jekyll-blog/2#configurations)
+        - [Gemfile](/etc/jekyll-blog/2#gemfile)
+        - [Index](/etc/jekyll-blog/2#index)
+        - [실행](/etc/jekyll-blog/2#실행)
+    
 
 # Local Jekyll 설치 
 [공식 사이트 설치 가이드](https://jekyllrb.com/docs/installation/macos/)
@@ -54,7 +62,8 @@ ERROR:  While executing gem ... (Gem::FilePermissionError)
 
 가이드대로 진행 했을때 위와 같은 에러를 만났습니다.
 
-Ruby를 정확히는 모르지만 짐작하기로는 Ruby 에서 사용하는 패키징 관리 라이브러리인 Gem에 대한 권한이 없다는 메시지인데
+Ruby를 정확히는 모르지만 짐작하기로는 Ruby 에서 사용하는 패키징 관리 라이브러리인 Gem에 대한 권한이 없다는 메시지 입니다.
+
 Mac에서도 기본적으로 Ruby를 사용 하는것 같고 공식 사이트 상의 가이드대로 따랐을때 가상환경이 잘 잡히지 않은걸로 보이고 
 Os상에서 사용하는 기본 라이브러리를 건드리기는 위험 부담이 커 다른 방법을 선택했습니다.
 
@@ -62,6 +71,7 @@ Os상에서 사용하는 기본 라이브러리를 건드리기는 위험 부담
 또다른 가상환경을 찾아보니 rbenv 를 찾아보니 주로 사용하는 pyenv 와 비슷한것 같아 선택하게 되었습니다.
 
 글을 적으며 생각해보니 환경 설정까지 잡은 후 잡은 환경 변수를 안잡아줘서 그랬던것 같은데 편하신대로 선택하시면 될것 같습니다.
+
 이 경우에는 공식 사이트의 마지막 단계인 jekyll 설치 전 아래 명령어를 추가해 주시면 될것 같습니다.
 
 ~~~shell
@@ -133,7 +143,7 @@ gem install jekyll
 ~~~
 <br>
 
-[Jekyll Blog 시작 (2)](/etc/jekyll-blog/2){: .float-right .btn .btn-outline }
+[Jekyll Blog 시작 (2)](/etc/jekyll-blog/2){: .float-right .btn .btn-purple }
 {: .float: right }
 
 <br>

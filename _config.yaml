@@ -1,9 +1,9 @@
-#remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 theme: "just-the-docs"
 
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-future                   : true
-# Site Settings
+
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"               ## 사이트 스킨
+#logo: "/assets/images/just-the-docs.png"                                                                                      ## 사이트 로고
 locale                   : "ko-KR"
 title                    : "기술 블로그"
 title_separator          : "-"
@@ -12,5 +12,12 @@ name                     : "Jason"
 description              : "기술 블로그"
 url                      : ""# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "jason-lee-91/jason-lee-91.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 gh_edit_repository: "https://github.com/jason-lee-91/jason-lee-91.github.io/" # the github URL for your repo
+
+
+
+# Aux links for the upper right navigation
+aux_links:
+  "Jason on GitHub":
+    - "//github.com/jason-lee-91/introduce"                                                                                      ## 상단 git 링크
