@@ -4,6 +4,7 @@ title: Etc
 nav_order: 2
 description: "기타"
 permalink: /etc
+has_children: true
 ---
 
 
