@@ -7,9 +7,4 @@ permalink: /etc
 has_children: true
 ---
 
-
-# 기타 관련
-{: .fs-9 }
-
-테스트
-{: .fs-6 .fw-300 }
+카테고라이징 된 목록 외 
