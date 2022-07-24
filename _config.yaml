@@ -1,5 +1,5 @@
-remote_theme: just-the-docs/just-the-docs
-#theme: "just-the-docs"
+#remote_theme: just-the-docs/just-the-docs
+theme: "just-the-docs"
 
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 future                   : true
@@ -14,6 +14,3 @@ url                      : "jason-lee-91.github.io"# the base hostname & protoco
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 gh_edit_repository: "https://github.com/jason-lee-91/jason-lee-91.github.io/" # the github URL for your repo
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/jason-lee-91/jason-lee-91.github.io"

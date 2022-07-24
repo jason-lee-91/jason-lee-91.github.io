@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Home
+title: Introduce
 nav_order: 1
-description: "개인 기술 블로그"
+description: "소개"
 permalink: /
 ---
 
