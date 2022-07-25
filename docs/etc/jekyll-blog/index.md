@@ -33,3 +33,8 @@ has_children: true
         - [Gemfile](/etc/jekyll-blog/2#gemfile)
         - [Index](/etc/jekyll-blog/2#index)
         - [실행](/etc/jekyll-blog/2#실행)
+ - [Jekyll Blog 시작 (3) - Windows 설치](/etc/jekyll-blog/3)
+    - [시작하며](/etc/jekyll-blog/3#시작하며)
+    - [Ruby 설치](/etc/jekyll-blog/3#ruby-설치)
+    - [MSYS2 이란](/etc/jekyll-blog/3#msys2-이란)
+    - [정리](/etc/jekyll-blog/3#정리)
