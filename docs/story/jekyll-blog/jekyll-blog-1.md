@@ -4,8 +4,8 @@ title: Jekyll Blog 시작 (1) - Local Jekyll 설치
 nav_order: 1
 description: "Jekyll Blog 시작 - Local Jekyll 설치"
 parent: Jekyll Blog 시작
-grand_parent: Etc
-permalink: /etc/jekyll-blog/1
+grand_parent: Story
+permalink: /story/jekyll-blog/1
 ---
 
 <br>
@@ -20,11 +20,11 @@ permalink: /etc/jekyll-blog/1
 # 목차
 
 ---
- - [Local Jekyll 설치](/etc/jekyll-blog/1#local-jekyll-설치)
-      - [Ruby 설치](/etc/jekyll-blog/1#ruby-설치)
-      - [Homebrew 설치](/etc/jekyll-blog/1#1-homebrew-설치)
-      - [rbenv 및 ruby-build 설치](/etc/jekyll-blog/1#2-rbenv-및-ruby-build-설치)
-      - [ruby 설치](/etc/jekyll-blog/1#3-ruby-설치)
+ - [Local Jekyll 설치](/story/jekyll-blog/1#local-jekyll-설치)
+      - [Ruby 설치](/story/jekyll-blog/1#ruby-설치)
+      - [Homebrew 설치](/story/jekyll-blog/1#1-homebrew-설치)
+      - [rbenv 및 ruby-build 설치](/story/jekyll-blog/1#2-rbenv-및-ruby-build-설치)
+      - [ruby 설치](/story/jekyll-blog/1#3-ruby-설치)
 
 
 # Local Jekyll 설치 
@@ -128,7 +128,7 @@ source ~/.zshrc
 
 <br>
 
-[Jekyll Blog 시작 (2)](/etc/jekyll-blog/2){: .float-right .btn .btn-purple }
+[Jekyll Blog 시작 (2)](/story/jekyll-blog/2){: .float-right .btn .btn-purple }
 
 <br>
 <br>

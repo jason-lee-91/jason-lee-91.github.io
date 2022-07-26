@@ -4,8 +4,8 @@ title: Jekyll Blog 시작 (2) - Theme 선택 후 반영 (JUST THE DOCS)
 nav_order: 2
 description: "Jekyll Blog 시작 - Theme 선택 후 반영 (JUST THE DOCS)"
 parent: Jekyll Blog 시작
-grand_parent: Etc
-permalink: /etc/jekyll-blog/2
+grand_parent: Story
+permalink: /story/jekyll-blog/2
 ---
 
 <br>
@@ -20,13 +20,13 @@ permalink: /etc/jekyll-blog/2
 # 목차
 
 ---
- - [Jekyll 설치](/etc/jekyll-blog/2#jekyll-설치)
- - [Jekyll Theme 선택 [Just The Docs ]](/etc/jekyll-blog/2#jekyll-theme-선택-just-the-docs--공식-사이트)
-    - [Just The Docs 실행](/etc/jekyll-blog/2#just-the-docs-실행)
-        - [Configurations](/etc/jekyll-blog/2#configurations)
-        - [Gemfile](/etc/jekyll-blog/2#gemfile)
-        - [Index](/etc/jekyll-blog/2#index)
-        - [실행](/etc/jekyll-blog/2#실행)
+ - [Jekyll 설치](/story/jekyll-blog/2#jekyll-설치)
+ - [Jekyll Theme 선택 [Just The Docs ]](/story/jekyll-blog/2#jekyll-theme-선택-just-the-docs--공식-사이트)
+    - [Just The Docs 실행](/story/jekyll-blog/2#just-the-docs-실행)
+        - [Configurations](/story/jekyll-blog/2#configurations)
+        - [Gemfile](/story/jekyll-blog/2#gemfile)
+        - [Index](/story/jekyll-blog/2#index)
+        - [실행](/story/jekyll-blog/2#실행)
 
 
 
@@ -127,7 +127,7 @@ jekyll serve
 기본 포트인 4000 번으로 접근 [http://localhost:4000](http://localhost:4000) 후 화면 확인
 
    
-![Jekyll Start](/assets/images/etc/jekyll-start-img.png)
+![Jekyll Start](/assets/images/story/jekyll-start-img.png)
 
  * 화면이 뜨지 않을 시 baseurl 설정 확인
 {: .text-red-000}
@@ -155,9 +155,9 @@ jekyll serve
 
 <br>
 
-[Jekyll Blog 시작 (1)](/etc/jekyll-blog/1){: .float-left .btn .btn-green }
+[Jekyll Blog 시작 (1)](/story/jekyll-blog/1){: .float-left .btn .btn-green }
 
-[Jekyll Blog 시작 (3)](/etc/jekyll-blog/3){: .float-right .btn .btn-purple }
+[Jekyll Blog 시작 (3)](/story/jekyll-blog/3){: .float-right .btn .btn-purple }
 
 
 <br>

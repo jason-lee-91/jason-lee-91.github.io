@@ -4,8 +4,8 @@ title: Jekyll Blog 시작 (3) - Windows 설치
 nav_order: 3
 description: "Jekyll Blog 시작 - Windows 설치"
 parent: Jekyll Blog 시작
-grand_parent: Etc
-permalink: /etc/jekyll-blog/3
+grand_parent: Story
+permalink: /story/jekyll-blog/3
 ---
 
 <br>
@@ -20,10 +20,10 @@ permalink: /etc/jekyll-blog/3
 # 목차
 
 ---
- - [시작하며](/etc/jekyll-blog/3#시작하며)
- - [Ruby 설치](/etc/jekyll-blog/3#ruby-설치)
- - [MSYS2 이란](/etc/jekyll-blog/3#msys2-이란)
- - [정리](/etc/jekyll-blog/3#정리)
+ - [시작하며](/story/jekyll-blog/3#시작하며)
+ - [Ruby 설치](/story/jekyll-blog/3#ruby-설치)
+ - [MSYS2 이란](/story/jekyll-blog/3#msys2-이란)
+ - [정리](/story/jekyll-blog/3#정리)
 
 ## 시작하며
 
@@ -62,18 +62,18 @@ MSYS2는 GCC, mingw-w64, CPython, CMake, Meson, OpenSSL, FFmpeg, Rust, Ruby 등�
 
 
 ---
-이후 부분은 [Jekyll Blog 시작 (2)](/etc/jekyll-blog/2) 의 내용 진행 하시면 됩니다.
+이후 부분은 [Jekyll Blog 시작 (2)](/story/jekyll-blog/2) 의 내용 진행 하시면 됩니다.
 
 ## 정리
 
 ---
  1. [공식 사이트](https://rubyinstaller.org/) WITH DEVKIT (MSYS2 포함) 다운로드 받은 후 설치
- 1. [Jekyll Blog 시작 (2)](/etc/jekyll-blog/2) 의 내용 진행
+ 1. [Jekyll Blog 시작 (2)](/story/jekyll-blog/2) 의 내용 진행
 
 
 <br>
 
-[Jekyll Blog 시작 (2)](/etc/jekyll-blog/2){: .float-left .btn .btn-green }
+[Jekyll Blog 시작 (2)](/story/jekyll-blog/2){: .float-left .btn .btn-green }
 
 <br>
 <br>
