@@ -75,6 +75,8 @@ MSYS2는 GCC, mingw-w64, CPython, CMake, Meson, OpenSSL, FFmpeg, Rust, Ruby 등�
 
 [Jekyll Blog 시작 (2)](/story/jekyll-blog/2){: .float-left .btn .btn-green }
 
+[Jekyll Blog 시작 (4)](/story/jekyll-blog/4){: .float-right .btn .btn-purple }
+
 <br>
 <br>
 <br>

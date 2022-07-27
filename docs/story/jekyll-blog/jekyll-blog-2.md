@@ -127,7 +127,7 @@ jekyll serve
 기본 포트인 4000 번으로 접근 [http://localhost:4000](http://localhost:4000) 후 화면 확인
 
    
-![Jekyll Start](/assets/images/story/jekyll-start-img.png)
+![Jekyll Start](/assets/images/story/jekyll/jekyll-start-img.png)
 
  * 화면이 뜨지 않을 시 baseurl 설정 확인
 {: .text-red-000}
