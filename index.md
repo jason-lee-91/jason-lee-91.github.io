@@ -57,6 +57,6 @@ permalink: /
 {: .fs-4}
 
 ---
- - [Story](/story) : 카테고라이징 된 목록 외 [[보러가기]](/story)
+ - [Story](/story) : 기술 기반의 이야기 [[보러가기]](/story)
 {: .fs-5}
    
