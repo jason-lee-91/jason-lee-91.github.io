@@ -181,13 +181,13 @@ CI/CD 관련한 좀 더 상세한 내용은 조만간 포스팅을 진행할 예
 
 보시는 것과 같이 **build, report-build-status, deploy** Pipeline이 보입니다.
 
-![Build Process](/assets/images/story/jekyll/build_process.jpg)
+![Build Process](/assets/images/story/jekyll/build_process.JPG)
 
 위 이미지의 Pipeline을 클릭 하시면 해당 파이프라인의 Stage 진행 상황 및 history 를 볼 수 있습니다.
 
 해당 화면에서 오류가 떻을경우 확인 하신 후 수정 및 배포 진행 상황들을 확인 하시면 됩니다.
 
-![Build Process Second](/assets/images/story/jekyll/build_process_se.jpg)
+![Build Process Second](/assets/images/story/jekyll/build_process_se.JPG)
 
 <br>
 
