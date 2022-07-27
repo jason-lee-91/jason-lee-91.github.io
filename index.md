@@ -57,6 +57,7 @@ permalink: /
 {: .fs-4}
 
 ---
+
  - [Story](/story) : 기술 기반의 이야기 [[보러가기]](/story)
 {: .fs-5}
    
