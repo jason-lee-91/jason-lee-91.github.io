@@ -7,13 +7,14 @@ parent: Story
 permalink: /story/jekyll-blog
 has_children: true
 ---
-<br>
 
-# 설치 환경
+# **Jekyll Blog 시작**
+**설치 환경** Mac 기반으로 작성 되었습니다.
+{:.text-right}
+**since** 2022-07-23
+{:.text-right}
 
 ---
- - Mac 기반으로 작성 되었습니다.
-
 
 
 # 목차
